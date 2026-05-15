@@ -1,13 +1,20 @@
-# AI Landscape 
+# AI Landscape
 
-See `docs/ai-landscape/` for the AI landscape documentation.
+See [`docs/ai-landscape/`](docs/ai-landscape/) for the full AI landscape documentation.
 
-## Structure
+## Project Structure
 
-- `foundations/` - Python, NumPy, Statistics, Linear Algebra, Probability
-- `data-engineering/` - ingestion, pipelines, orchestration, warehousing
-- `data-science/` - EDA, feature engineering, experiments, analytics
-- `ml/` - classic ML, deep learning, transformers, GenAI, RAG
-- `mlops-llmops/` - deployment, monitoring, evaluation, safety
-- `shared/` - reusable utilities, schemas, configs
-- `docs/` - notes, maps, reference docs
+- **`foundations/`**
+    - Python
+    - Pandas:
+        - [External GitHub Repo](https://github.com/sunny-bhakta/Pandas)
+        - [Local Pandas README](foundations/Pandas/pandas_readme.md)
+    - NumPy
+    - Statistics
+     Linear Algebra, Probability
+- **`data-engineering/`** — Ingestion, pipelines, orchestration, warehousing
+- **`data-science/`** — EDA, feature engineering, experiments, analytics
+- **`ml/`** — Classic ML, deep learning, transformers, GenAI, RAG
+- **`mlops-llmops/`** — Deployment, monitoring, evaluation, safety
+- **`shared/`** — Reusable utilities, schemas, configs
+- **`docs/`** — Notes, maps, reference docs
